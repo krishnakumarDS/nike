@@ -2,7 +2,6 @@ import {
   Customerreviews,
   Hero,
   Popularproduct,
-  Subscribe,
   Superquality,
   Footer,
   Services,
