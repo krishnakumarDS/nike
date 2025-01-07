@@ -6,7 +6,6 @@ import Specialoffer from "./Specialoffer";
 import Customerreviews from "./Customerreview";
 import Footer from "./Footer";
 import Nav from "./Nav";
-import Subscribe from "./subscribe";
 
 export {
   Hero,
@@ -14,7 +13,6 @@ export {
   Popularproduct,
   Services,
   Specialoffer,
-  Subscribe,
   Footer,
   Superquality,
   Customerreviews,
